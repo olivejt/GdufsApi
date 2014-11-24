@@ -1,0 +1,8 @@
+[ 2014-11-24T21:39:12+08:00 ] 127.0.0.1 /GdufsApi/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001840s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002045s ]
+SQL: SHOW COLUMNS FROM `api_app` [ RunTime:0.025917s ]
+SQL: SHOW COLUMNS FROM `api_user` [ RunTime:0.014225s ]
+NOTIC: [8] Undefined index: type F:\wamp\www\GdufsApi\home\Lib\Action\IndexAction.class.php 第 19 行.
+

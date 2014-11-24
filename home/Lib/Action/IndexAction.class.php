@@ -75,7 +75,7 @@ class IndexAction extends Action {
     			$array = array(
     					'token' => $token,
     					'userData' => $userData,
-    					'isLogin' => '1'
+    					'isLogin' => $isLogin,
     			);
      			$res = json_encode($array);
      			echo $res;
